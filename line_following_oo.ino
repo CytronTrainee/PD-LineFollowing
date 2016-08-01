@@ -119,7 +119,5 @@ void motor_control()
     
     analogWrite(LeftEn,left_motor_speed);   //Left Motor Speed
     analogWrite(RightEn,right_motor_speed);  //Right Motor Speed
-
-    
 }
 
